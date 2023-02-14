@@ -74,14 +74,14 @@ img{
   /* Requirement 9 code here -- Do not remove this comment. */
 .text{
   align-self: center;
-  max-height: 30vh;
+  max-height: 40vh;
   overflow: scroll;
 }
 
 
 
   /*Add the media query here.  Make sure to */
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 800px) {
   nav{
     padding-top: 35px;
     /* Requirement 10 code here -- Do not remove this comment. */
